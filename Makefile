@@ -1,4 +1,4 @@
-FLAGS=-Wall -fsanitize=address
+FLAGS=-Wall
 STD=c++14
 
 all:
